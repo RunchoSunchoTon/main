@@ -1,0 +1,5 @@
+name: logo
+defaults:
+<body>
+<img src="/android-icon-192x192-transformed.png">
+</body>  
